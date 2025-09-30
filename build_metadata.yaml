@@ -1,0 +1,10 @@
+build_time: '2025-09-30 12:33:41'
+input_dataset: C:\Users\NXTWAVE\Downloads\AI Stock Market Fraud & Anomaly Detector\archive\financial_anomaly_data.csv
+models:
+  anomaly_detector: IsolationForest
+notes: Dataset has no fraud labels; only anomaly detection performed.
+outputs:
+  anomaly_model: C:\Users\NXTWAVE\Downloads\AI Stock Market Fraud & Anomaly Detector\anomaly_model.pkl
+  processed_data: C:\Users\NXTWAVE\Downloads\AI Stock Market Fraud & Anomaly Detector\processed_trades.h5
+  report: C:\Users\NXTWAVE\Downloads\AI Stock Market Fraud & Anomaly Detector\finguard_report.json
+scaler: StandardScaler

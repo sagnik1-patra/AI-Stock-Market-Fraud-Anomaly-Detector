@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-09-30 12:45:44",
+  "dataset_shape": [
+    217441,
+    9
+  ],
+  "features_used": [
+    "Amount"
+  ],
+  "total_transactions": 217441,
+  "anomalies_detected": 10870,
+  "normal_detected": 206571,
+  "model": "IsolationForest (unsupervised anomaly detection)",
+  "output_files": {
+    "predictions_csv": "C:\\Users\\NXTWAVE\\Downloads\\AI Stock Market Fraud & Anomaly Detector\\predictions.csv",
+    "anomaly_model": "C:\\Users\\NXTWAVE\\Downloads\\AI Stock Market Fraud & Anomaly Detector\\anomaly_model.pkl"
+  }
+}

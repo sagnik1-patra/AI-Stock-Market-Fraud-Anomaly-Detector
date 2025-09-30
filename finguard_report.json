@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-09-30 12:43:00",
+  "shape": [
+    217441,
+    9
+  ],
+  "features": [
+    "Amount"
+  ],
+  "anomalies_detected": 10870,
+  "normal_detected": 206571,
+  "visuals": {
+    "timeline": "anomaly_score_timeline.png",
+    "heatmap": "feature_heatmap.png",
+    "result_graph": "result_graph.png",
+    "prediction_graph": "prediction_graph.png"
+  }
+}
