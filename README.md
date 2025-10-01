@@ -1,4 +1,4 @@
-💹 FinGuard — AI Stock Market Fraud & Anomaly Detector
+💹 FinGuard — AI Stock Market Fraud & Anomaly Detector.
 
 FinGuard is an AI-powered fraud & anomaly detection system for financial transactions and market trades.
 It uses a hybrid model that combines:
